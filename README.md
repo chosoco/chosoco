@@ -1,16 +1,15 @@
-## Hi there 👋
+## Olá a todos! 👋  Hi Everyone 👋 
+- Meu nome é Fernando / My name is Fernando 
 
-<!--
-**chosoco/chosoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Eu tenho 16 anos / I´m 16yrs old 
 
-Here are some ideas to get you started:
+- Eu sou Brasileiro 🇧🇷 /  I´m Brazilian 🇧🇷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Sou um iniciante em programação estou aprendendo a desenvolver em JavaScript / I'm a beginner in programming and I'm learning to develop in JavaScript
+
+### Você pode entrar em contato comigo através do Discord / You can text with me in Discord
+- Meu usuário é chakatsu / My username is chakatsu
+
+![](https://media1.tenor.com/m/Y4Q-m40rtIcAAAAd/gemaplys-yunlimassa.gif)
+
+[Gemaplys](https://www.youtube.com/@GEMAPLYS)
